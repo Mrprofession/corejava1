@@ -13,6 +13,7 @@ public class DifferentDatatypes {
 		        System.out.println(c);
 		        System.out.println(flag);
 		        System.out.println(name);
+		        
 	}
 
 }
